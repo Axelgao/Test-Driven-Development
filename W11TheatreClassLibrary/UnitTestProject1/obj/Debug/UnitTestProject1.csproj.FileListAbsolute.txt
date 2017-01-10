@@ -1,0 +1,16 @@
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W11TheatreClassLibrary\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W11TheatreClassLibrary\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W11TheatreClassLibrary\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W11TheatreClassLibrary\UnitTestProject1\bin\Debug\W11TheatreClassLibrary.dll
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W11TheatreClassLibrary\UnitTestProject1\bin\Debug\W11TheatreClassLibrary.pdb
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W11TheatreClassLibrary\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W11TheatreClassLibrary\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W11TheatreClassLibrary\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\gaosh\OneDrive\Documents\Documents\158326 Software Architecture\tutorial code - Copy\W11TheatreClassLibrary\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\gaosh\OneDrive\Documents\Documents\158326 Software Architecture\tutorial code - Copy\W11TheatreClassLibrary\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\gaosh\OneDrive\Documents\Documents\158326 Software Architecture\tutorial code - Copy\W11TheatreClassLibrary\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\gaosh\OneDrive\Documents\Documents\158326 Software Architecture\tutorial code - Copy\W11TheatreClassLibrary\UnitTestProject1\bin\Debug\W11TheatreClassLibrary.dll
+C:\Users\gaosh\OneDrive\Documents\Documents\158326 Software Architecture\tutorial code - Copy\W11TheatreClassLibrary\UnitTestProject1\bin\Debug\W11TheatreClassLibrary.pdb
+C:\Users\gaosh\OneDrive\Documents\Documents\158326 Software Architecture\tutorial code - Copy\W11TheatreClassLibrary\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\gaosh\OneDrive\Documents\Documents\158326 Software Architecture\tutorial code - Copy\W11TheatreClassLibrary\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\gaosh\OneDrive\Documents\Documents\158326 Software Architecture\tutorial code - Copy\W11TheatreClassLibrary\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

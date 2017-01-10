@@ -1,0 +1,10 @@
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W11TheatreClassLibrary\W11TheatreClassLibrary\bin\Debug\W11TheatreClassLibrary.dll
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W11TheatreClassLibrary\W11TheatreClassLibrary\bin\Debug\W11TheatreClassLibrary.pdb
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W11TheatreClassLibrary\W11TheatreClassLibrary\obj\Debug\W11TheatreClassLibrary.csprojResolveAssemblyReference.cache
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W11TheatreClassLibrary\W11TheatreClassLibrary\obj\Debug\W11TheatreClassLibrary.dll
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W11TheatreClassLibrary\W11TheatreClassLibrary\obj\Debug\W11TheatreClassLibrary.pdb
+C:\Users\gaosh\OneDrive\Documents\Documents\158326 Software Architecture\tutorial code - Copy\W11TheatreClassLibrary\W11TheatreClassLibrary\bin\Debug\W11TheatreClassLibrary.dll
+C:\Users\gaosh\OneDrive\Documents\Documents\158326 Software Architecture\tutorial code - Copy\W11TheatreClassLibrary\W11TheatreClassLibrary\bin\Debug\W11TheatreClassLibrary.pdb
+C:\Users\gaosh\OneDrive\Documents\Documents\158326 Software Architecture\tutorial code - Copy\W11TheatreClassLibrary\W11TheatreClassLibrary\obj\Debug\W11TheatreClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\gaosh\OneDrive\Documents\Documents\158326 Software Architecture\tutorial code - Copy\W11TheatreClassLibrary\W11TheatreClassLibrary\obj\Debug\W11TheatreClassLibrary.dll
+C:\Users\gaosh\OneDrive\Documents\Documents\158326 Software Architecture\tutorial code - Copy\W11TheatreClassLibrary\W11TheatreClassLibrary\obj\Debug\W11TheatreClassLibrary.pdb
